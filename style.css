@@ -103,3 +103,37 @@ section{
     margin-top: 150px;
 }
 /* previous end */
+
+
+/* My Plans start  */
+.my-plans .my-plans-headline{
+    text-align: center;
+    color:  #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 100px;
+}
+.my-plans .my-all-plans{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.my-plans .plans{
+    text-align: center;
+}
+.plans .plans-title{
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-weight: 700;
+    padding: 24px 0 16px 0;
+}
+.plans .plans-des{
+    color: #737272;
+    font-family: "Work Sans";
+    font-size: 25px;
+    font-weight: 500;
+}
+/* My Plans end */
