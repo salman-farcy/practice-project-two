@@ -63,5 +63,43 @@ section{
 
 
 /* previous start */
-
+.previous-content{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.previous-content .previous-vew{
+    width: 60%;
+}
+.previous-content .previous-vew img{
+    width: 80%;
+}
+.previous-content .previous-dtl .year{
+    color: #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    max-width: 350px;
+    line-height: normal;
+    padding: 24px 0;
+}
+.previous-content .previous-dtl .year-dtail{
+    max-width: 416px;
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 16px 0;
+}
+.previous-dtl .list-mark li{
+    color:  #444343;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.previous-content .previous-dtl{
+    margin-top: 150px;
+}
 /* previous end */
